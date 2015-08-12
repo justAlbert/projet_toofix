@@ -1,2 +1,2 @@
 # projet_toofix
-game football social
+game football social modifier en local
