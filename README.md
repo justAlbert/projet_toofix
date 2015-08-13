@@ -1,3 +1,3 @@
 # projet_toofix
 
-game football social modifier en local 4 foiS 
+game football social modifier en local on teste en tant que contributor 
